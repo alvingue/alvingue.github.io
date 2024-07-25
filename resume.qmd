@@ -1,87 +1,143 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alvin Guevara's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alvin Guevara
+Business Consultant, Realtor, Accountant.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="alvin.g1524@gmail.com">alvin.g1524@gmail.com</a>
+| <a href="https://www.linkedin.com/in/alvin-guevara/">My LinkedIn Profile</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as a Business Consultant at Highland Hay International, LLC
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Data Entry and Analytics, Sales, Marketing, and Customer Service
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Real estate sales data analysis, export and revenue data tracking, economic nexus studies
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected Graduation December 2023`
+__Brigham Young University Idaho, Rexburg, Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BS in Business Analytics
 
-- Sizar
+`Graduated July 2019`
+__Ensign College, Salt Lake City, Utah__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- AS in Integrated Studies
+- AAS in Accounting
+- AAS in Sales
+- Certificate in Global Supply Chain & Operations
 
-- Fellow
+### Other Education
 
+`Certified July 2022`
+__Stukent__
 
+- Mimic Marketing Principles
 
-## Awards
+`Certified December 2017`
+__Intuit Education__
 
-`2012`
-President, *Royal Society*, London, UK
+- QuickBooks Pro/Premier 2016
 
-Associate, *French Academy of Science*, Paris, France
+## Experience Highlights
 
+### Data Entry and Analytics
 
+- Gather and analyze real estate sales data in excel.
+- Create a statistical analysis for real estate sales data in R Studio.
+- Gather, track, and analyze export and revenue data in excel.
+- Wages analysis.
+- Manage export compliance documents.
+- Economic Nexus Study.
+- Manage 36 Company books between QuickBooks Desktop 2020 & QuickBooks Online.
 
-## Publications
+### Sales, Marketing, & Customer Service
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Retail sales.
+- Inbound call sales.
+- Cross selling.
+- Door to Door sales.
+- Negotiate real estate transactions.
+- International market research.
+- Website & Social Media marketing.
 
-### Journals
+## Employment History
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`Mar 2023 – Present`
+__Highland Hay International, LLC__, Hamer ID
 
-`1669`
-Lectiones opticæ.
+- Business Consultant – Full Time
 
-etc. etc. etc.
+`Apr 2019 – Present`
+__Keller Williams Realty, Inc.__, South Jordan UT
 
-### Patents
+- Realtor - Contract
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Jan 2018 – Present`
+__B&B Bookkeeping and Accounting Services__, Salt Lake City UT
 
+- Bookkeeper - Contract
 
-## Occupation
+`Sep 2020 – Jul 2021`
+__SunForce Energy__, Las Vegas NV & Orem UT
 
-`1600`
-__Royal Mint__, London
+- Energy Advisor - Contract
 
-- Warden
-- Minted coins
+## Skills
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Experience with QuickBooks Online
+- Experience with QuickBooks Desktop 2020
+- Experience with MS Office
+- Experience with MS Power BI
+- Some experience with Python
+- Some experience with R Studio
+- Some experience with Tableau
+- Empathizes and creates a good environment for customers and workers.
 
+## Involvement
+
+### Church of Jesus Christ of Latter-Day Saints
+
+`Jul 2013 – Jul 2015`
+__Volunteer Missionary__, Salem OR
+
+- Led and trained groups of missionaries.
+
+`Oct 2015 – Apr 2016`
+__La Region Hispana__, Utah Region
+
+- Committee Leader
+- Held and organized 7 events.
+
+`Apr 2016 – Apr 2017`
+__La Region Hispana__, Utah Region
+
+- Executive Committee Member
+- Managed communication to 108 units by directing a group of 16 people.
+
+## Honors & Awards
+
+`Jan 2017`
+__LDS Business College__, Salt Lake City UT
+
+- Placed on Fall 2016 Deans List and Honor Roll.
+
+## Languages
+
+- ENGLISH - FLUENT
+- SPANISH - FLUENT
+
+*Further work experience and references available upon request.
 
 
 <!-- ### Footer
