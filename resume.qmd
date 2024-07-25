@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Alvin Guevara's CV
+title: Alvin Guevara's Resume
 ---
 # Alvin Guevara
 Business Consultant, Realtor, Accountant.
